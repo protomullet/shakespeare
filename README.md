@@ -17,3 +17,13 @@ Now you can extract the sonnets:
 sed -n '176,2799p' shakespeare.txt > sonnets.txt
 ```
 you now have a much smaller file ```sonnets.txt``` with only the the sonnets because they lie between line 176 and 2799 of ```shakespeare.txt```
+
+Extract Richard III
+```
+sed -n '91208,95748' shakespeare.txt > richard-iii.txt
+```
+
+
+## How to do this badly
+Use ```sed``` to extract the sonnets.
+
