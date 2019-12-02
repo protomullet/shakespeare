@@ -26,4 +26,4 @@ sed -n '91208,95748' shakespeare.txt > richard-iii.txt
 
 ## How to do this badly
 Use ```sed``` to extract the sonnets.
-
+Don't use https://www.opensourceshakespeare.org/
