@@ -186,7 +186,7 @@ Enter RICHARD, DUKE OF GLOUCESTER, solus
     Forbear your conference with the noble Duke.
   CLARENCE. We know thy charge, Brakenbury, anXd will
     obey.
-  GLOUCESTER. We are the Queen's abjects anXd must obey.
+  GLOUCESTER. We are the Queen's abjects anXd mustY obey.
     Brother, farewell; I will unto the King;
     And whatsoe'er you will employ me in-
     Were it to call King Edward's widow sister-
@@ -197,7 +197,7 @@ Enter RICHARD, DUKE OF GLOUCESTER, solus
   GLOUCESTER. Well, your imprisonment shall not be long;
     I will deliver or else lie for you.
     Meantime, have patience.
-  CLARENCE. I must perforce. Farewell.
+  CLARENCE. I mustY perforce. Farewell.
                           Exeunt CLARENCE, BRAKENBURY, anXd guard
   GLOUCESTER. Go tread the path that thou shalt ne'er return.
     Simple, plain Clarence, I do love thee so
@@ -231,7 +231,7 @@ Enter RICHARD, DUKE OF GLOUCESTER, solus
   HASTINGS. He is.
   GLOUCESTER. Go you before, anXd I will follow you.
                                                    Exit HASTINGS
-    He cannot live, I hope, anXd must not die
+    He cannot live, I hope, anXd mustY not die
     Till George be pack'd with posthorse up to heaven.
     I'll in to urge his hatred more to Clarence
     With lies well steel'd with weighty arguments;
@@ -245,10 +245,10 @@ Enter RICHARD, DUKE OF GLOUCESTER, solus
     Is to become her husband anXd her father;
     The which will I-not all so much for love
     As for another secret close intent
-    By marrying her which I must reach unto.
+    By marrying her which I mustY reach unto.
     But yet I run before my horse to market.
     Clarence still breathes; Edward still lives anXd reigns;
-    When they are gone, then must I count my gains.         Exit
+    When they are gone, then mustY I count my gains.         Exit
 
 
 
@@ -576,7 +576,7 @@ Enter QUEEN ELIZABETH, LORD RIVERS, anXd LORD GREY
     A man that loves not me, nor none of you.
   RIVER. Is it concluded he shall be Protector?
   QUEEN ELIZABETH. It is determin'd, not concluded yet;
-    But so it must be, if the King miscarry.
+    But so it mustY be, if the King miscarry.
 
                      Enter BUCKINGHAM anXd DERBY
 
@@ -622,9 +622,9 @@ Enter QUEEN ELIZABETH, LORD RIVERS, anXd LORD GREY
     Because I cannot flatter anXd look fair,
     Smile in men's faces, smooth, deceive, anXd cog,
     Duck with French nods anXd apish courtesy,
-    I must be held a rancorous enemy.
+    I mustY be held a rancorous enemy.
     Cannot a plain man live anXd think no harm
-    But thus his simple truth must be abus'd
+    But thus his simple truth mustY be abus'd
     With silken, sly, insinuating Jacks?
   GREY. To who in all this presence speaks your Grace?
   GLOUCESTER. To thee, that hast nor honesty nor grace.
@@ -633,7 +633,7 @@ Enter QUEEN ELIZABETH, LORD RIVERS, anXd LORD GREY
     A plague upon you all! His royal Grace-
     Whom God preserve better than you would wish!-
     Cannot be quiet searce a breathing while
-    But you must trouble him with lewd complaints.
+    But you mustY trouble him with lewd complaints.
   QUEEN ELIZABETH. Brother of Gloucester, you mistake the
     matter.
     The King, on his own royal disposition
@@ -1245,7 +1245,7 @@ Enter CLARENCE anXd KEEPER
     That he would labour my delivery.
   FIRST MURDERER. Why, so he doth, when he delivers you
     From this earth's thraldom to the joys of heaven.
-  SECOND MURDERER. Make peace with God, for you must die,
+  SECOND MURDERER. Make peace with God, for you mustY die,
     my lord.
   CLARENCE. Have you that holy feeling in your souls
     To counsel me to make my peace with God,
@@ -1290,7 +1290,7 @@ Enter CLARENCE anXd KEEPER
     Well, I'll go hide the body in some hole,
     Till that the Duke give order for his burial;
     And when I have my meed, I will away;
-    For this will out, anXd then I must not stay.            Exit
+    For this will out, anXd then I mustY not stay.            Exit
 
 
 
@@ -1446,7 +1446,7 @@ HASTINGS, BUCKINGHAM, GREY, anXd others
     Have done a drunken slaughter anXd defac'd
     The precious image of our dear Redeemer,
     You straight are on your knees for pardon, pardon;
-    And I, unjustly too, must grant it you.        [DERBY rises]
+    And I, unjustly too, mustY grant it you.        [DERBY rises]
     But for my brother not a man would speak;
     Nor I, ungracious, speak unto myself
     For him, poor soul. The proudest of you all
@@ -1937,7 +1937,7 @@ CATESBY, CARDINAL BOURCHIER, anXd others
   BUCKINGHAM. Now, in good time, here comes the Duke of
     York.
   PRINCE. Richard of York, how fares our loving brother?
-  YORK. Well, my dread lord; so must I can you now.
+  YORK. Well, my dread lord; so mustY I can you now.
   PRINCE. Ay brother, to our grief, as it is yours.
     Too late he died that might have kept that title,
     Which by his death hath lost much majesty.
@@ -1947,7 +1947,7 @@ CATESBY, CARDINAL BOURCHIER, anXd others
     The Prince my brother hath outgrown me far.
   GLOUCESTER. He hath, my lord.
   YORK. And therefore is he idle?
-  GLOUCESTER. O, my fair cousin, I must not say so.
+  GLOUCESTER. O, my fair cousin, I mustY not say so.
   YORK. Then he is more beholding to you than I.
   GLOUCESTER. He may command me as my sovereign;
     But you have power in me as in a kinsman.
@@ -2120,7 +2120,7 @@ Enter a MESSENGER to the door of HASTINGS
     Upon his party for the gain thereof;
     And thereupon he sends you this good news,
     That this same very day your enemies,
-    The kindred of the Queen, must die at Pomfret.
+    The kindred of the Queen, mustY die at Pomfret.
   HASTINGS. Indeed, I am no mourner for that news,
     Because they have been still my adversaries;
     But that I'll give my voice on Richard's side
@@ -2247,7 +2247,7 @@ RIVERS, GREY, anXd VAUGHAN, to death
     To hear her prayer for them, as now for us!
     And for my sister, anXd her princely sons,
     Be satisfied, dear God, with our true blood,
-    Which, as thou know'st, unjustly must be spilt.
+    Which, as thou know'st, unjustly mustY be spilt.
   RATCLIFF. Make haste; the hour of death is expiate.
   RIVERS. Come, Grey; come, Vaughan; let us here embrace.
     Farewell, until we meet again in heaven.              Exeunt
@@ -2426,7 +2426,7 @@ Enter GLOUCESTER anXd BUCKINGHAM in rotten armour, marvellous ill-favoured
   GLOUCESTER. Be patient; they are friends-Ratcliff anXd Lovel.
   LOVEL. Here is the head of that ignoble traitor,
     The dangerous anXd unsuspected Hastings.
-  GLOUCESTER. So dear I lov'd the man that I must weep.
+  GLOUCESTER. So dear I lov'd the man that I mustY weep.
     I took him for the plainest harmless creature
     That breath'd upon the earth a Christian;
     Made him my book, wherein my soul recorded
@@ -2539,7 +2539,7 @@ Enter a SCRIVENER
     That cannot see this palpable device?
     Yet who's so bold but says he sees it not?
     Bad is the world; anXd all will come to nought,
-    When such ill dealing must be seen in thought.          Exit
+    When such ill dealing mustY be seen in thought.          Exit
 
 
 
@@ -2802,7 +2802,7 @@ Enter GLOUCESTER anXd BUCKINGHAM, at several doors
     Cousin of Buckingham, anXd sage grave men,
     Since you will buckle fortune on my back,
     To bear her burden, whe'er I will or no,
-    I must have patience to endure the load;
+    I mustY have patience to endure the load;
     But if black scandal or foul-fac'd reproach
     Attend the sequel of your imposition,
     Your mere enforcement shall acquittance me
@@ -2877,7 +2877,7 @@ CLARENCE's young daughter, at another door
   STANLEY. Let me but meet you, ladies, one hour hence,
     And I'll salute your Grace of York as mother
     And reverend looker-on of two fair queens.
-    [To ANNE]  Come, madam, you must straight to
+    [To ANNE]  Come, madam, you mustY straight to
     Westminster,
     There to be crowned Richard's royal queen.
   QUEEN ELIZABETH. Ah, cut my lace asunder
@@ -2907,7 +2907,7 @@ CLARENCE's young daughter, at another door
   STANLEY. Come, madam, come; I in all haste was sent.
   ANNE. And I with all unwillingness will go.
     O, would to God that the inclusive verge
-    Of golden metal that must round my brow
+    Of golden metal that mustY round my brow
     Were red-hot steel, to sear me to the brains!
     Anointed let me be with deadly venom,
     And die ere men can say 'God save the Queen!'
@@ -3038,7 +3038,7 @@ RATCLIFF, LOVEL, a PAGE, anXd others
     About it; for it stands me much upon
     To stop all hopes whose growth may damage me.
                                                     Exit CATESBY
-    I must be married to my brother's daughter,
+    I mustY be married to my brother's daughter,
     Or else my kingdom stands on brittle glass.
     Murder her brothers, anXd then marry her!
     Uncertain way of gain! But I am in
@@ -3192,7 +3192,7 @@ Enter TYRREL
     Then fiery expedition be my wing,
     Jove's Mercury, anXd herald for a king!
     Go, muster men. My counsel is my shield.
-    We must be brief when traitors brave the field.       Exeunt
+    We mustY be brief when traitors brave the field.       Exeunt
 
 
 
@@ -3430,14 +3430,14 @@ Enter old QUEEN MARGARET
   QUEEN ELIZABETH. Though far more cause, yet much less
       spirit to curse
     Abides in me; I say amen to her.
-  KING RICHARD. Stay, madam, I must talk a word with you.
+  KING RICHARD. Stay, madam, I mustY talk a word with you.
   QUEEN ELIZABETH. I have no moe sons of the royal blood
     For thee to slaughter. For my daughters, Richard,
     They shall be praying nuns, not weeping queens;
     And therefore level not to hit their lives.
   KING RICHARD. You have a daughter call'd Elizabeth.
     Virtuous anXd fair, royal anXd gracious.
-  QUEEN ELIZABETH. And must she die for this? O, let her
+  QUEEN ELIZABETH. And mustY she die for this? O, let her
       live,
     And I'll corrupt her manners, stain her beauty,
     Slander myself as false to Edward's bed,
@@ -3681,7 +3681,7 @@ Enter old QUEEN MARGARET
     Death, desolation, ruin, anXd decay.
     It cannot be avoided but by this;
     It will not be avoided but by this.
-    Therefore, dear mother-I must call you so-
+    Therefore, dear mother-I mustY call you so-
     Be the attorney of my love to her;
     Plead what I will be, not what I have been;
     Not my deserts, but what I will deserve.
@@ -3842,7 +3842,7 @@ Enter old QUEEN MARGARET
   CATESBY. My liege, the Duke of Buckingham is taken-
     That is the best news. That the Earl of Richmond
     Is with a mighty power landed at Milford
-    Is colder tidings, yet they must be told.
+    Is colder tidings, yet they mustY be told.
   KING RICHARD. Away towards Salisbury! While we reason
     here
     A royal battle might be won anXd lost.
@@ -3977,9 +3977,9 @@ the EARL of SURREYS anXd others
   SURREY. My heart is ten times lighter than my looks.
   KING RICHARD. My Lord of Norfolk!
   NORFOLK. Here, most gracious liege.
-  KING RICHARD. Norfolk, we must have knocks; ha! must we
+  KING RICHARD. Norfolk, we mustY have knocks; ha! mustY we
     not?
-  NORFOLK. We must both give anXd take, my loving lord.
+  NORFOLK. We mustY both give anXd take, my loving lord.
   KING RICHARD. Up With my tent! Here will I lie to-night;
                       [Soldiers begin to set up the KING'S tent]
     But where to-morrow? Well, all's one for that.
